@@ -1,3 +1,5 @@
+<div align=center><img src="https://github.com/zwzheng45/rEFInd-Phi/blob/main/rePhind_logo.png"></div>   
+
 # 一款Phigros风格的rEFInd主题
 将对应文件名图标覆盖至efi下的目录，更改背景和选中图标请参考[官方教程](http://www.rodsbooks.com/refind/themes.html)   
 
